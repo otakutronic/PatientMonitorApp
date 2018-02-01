@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PatientMonitor</string>
+    <string name="joke_error">Unable to load joke.</string>
+</resources>
